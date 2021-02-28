@@ -1,5 +1,5 @@
 # Autoencoder
-Autoencoder implementation in TensorFlow using the [Breast Cancer Wisconsin (Diagnostic) dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
+[Autoencoder](https://en.wikipedia.org/wiki/Autoencoder) implementation in TensorFlow using the [Breast Cancer Wisconsin (Diagnostic) dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
 
 <p align="center">
   <img width="412" height="300" src="images/linear_classifier.png">
